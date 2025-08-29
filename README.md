@@ -62,10 +62,3 @@ Sitio web de una cafetería y librería.
 
 ---
 
-##  Hobbies e intereses  
-- 🏊 Natación  
-- ☕ Barista  
-- 📸 Fotografía  
-
----
-
