@@ -3,7 +3,7 @@
 ---
 
 ## 👩‍💻 Sobre mí  
-Estudiante de **Analista de Sistemas** en **Da Vinci, la Universidad de Argentina**, cursando actualmente mi **segundo año**.  
+Estudiante de **Analista de Sistemas** en **Da Vinci**, cursando actualmente mi **segundo año**.  
 Mi especialidad es **Java**, y también manejo **PHP, HTML y CSS**.  
 Me apasiona la **programación, la resolución de problemas y el aprendizaje constante**. Mi objetivo es seguir creciendo profesionalmente en IT, aportando dedicación y creatividad a cada proyecto.
 
