@@ -43,7 +43,7 @@ Simulación de Sistema Bancario para gestión de cuentas, transferencias y rendi
 <tr>
 <td width="50%" valign="top">
 
-###  The Slap  
+### 👋🏼 The Slap  
 [Ver repositorio](https://github.com/vickyycm/TheSlap)  
 Proyecto inspirado en la serie *Victorious*.
  [oai_citation:2‡GitHub](https://github.com/vickyycm/TheSlap)
@@ -51,7 +51,7 @@ Proyecto inspirado en la serie *Victorious*.
 </td>
 <td width="50%" valign="top">
 
-###  Eterna Cadencia  
+### 📚 Eterna Cadencia  
 [Ver repositorio](https://github.com/vickyycm/EternaCadencia)  
 Sitio web de una cafetería y librería.
  [oai_citation:3‡GitHub](https://github.com/EternaCadencia)
