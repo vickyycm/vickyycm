@@ -3,7 +3,7 @@
 ---
 
 ## 👩‍💻 Sobre mí  
-Estudiante de **Analista de Sistemas** en **Da Vinci**, cursando actualmente mi **segundo año**.  
+Soy estudiante de **Analista de Sistemas** en **Da Vinci**, me encuentro cursando actualmente mi **segundo año**.  
 Mi especialidad es **Java**, y también manejo **PHP, HTML y CSS**.  
 Me apasiona la **programación, la resolución de problemas y el aprendizaje constante**. Mi objetivo es seguir creciendo profesionalmente en IT, aportando dedicación y creatividad a cada proyecto.
 
@@ -61,4 +61,9 @@ Sitio web de una cafetería y librería.
 </table>
 
 ---
+
+## 📫 Contacto
+<p align="center">
+  <a href="mailto:victoria_cossimazza@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
