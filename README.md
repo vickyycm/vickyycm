@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Victoria Cossi Mazza
 
 Estudiante de **Analista en Sistemas** en la Escuela DaVinci.  
-Me interesa el desarrollo de software, el desarrollo web y la experiencia de usuario, con foco en proyectos académicos bien estructurados y funcionales.
+Me interesa el desarrollo de software, web y ux, me enfoco en proyectos académicos bien estructurados y funcionales.
 
 ---
 
@@ -21,7 +21,7 @@ Me interesa el desarrollo de software, el desarrollo web y la experiencia de usu
 **Herramientas**
 - Git y GitHub
 - Photoshop (UX / UI)
-- Modelado UX: low, medium y high fidelity
+- Modelado UX
 
 ---
 ## 🛠️ Mis proyectos
@@ -55,6 +55,7 @@ Proyecto web académico sobre una librería y cafetería, enfocado en la estruct
 ## 📫 Contacto
 
 📧 Email: victoria_cossimazza@outlook.com 
+
 💼 Perfil orientado a proyectos académicos y primer empleo IT.
 
 ---
