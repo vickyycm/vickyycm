@@ -9,9 +9,12 @@ Me interesa el desarrollo de software, web y ux, me enfoco en proyectos académi
 
 **Lenguajes y tecnologías**
 - Java
+- Python
+- JavaScript
 - HTML5
 - CSS3
 - PHP
+- Android
 
 **Bases de datos**
 - SQL Server
@@ -43,12 +46,6 @@ Simulador de cuenta bancaria en **Java**, que permite realizar operaciones como 
 🔗 https://github.com/vickyycm/TheSlap  
 Proyecto web desarrollado con **HTML, CSS y PHP**, orientado a la creación de un portal de noticias.  
 Incluye estructura de secciones, navegación clara y manejo de contenido dinámico
-
----
-
-### ☕ Web Eterna Cadencia
-🔗 https://github.com/vickyycm/EternaCadencia  
-Proyecto web académico sobre una librería y cafetería, enfocado en la estructura de contenidos, diseño visual y navegación clara.
 
 ---
 
